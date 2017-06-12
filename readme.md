@@ -6,12 +6,12 @@
 
 3. composer install
 
-      Переименовать файл ".env.example" в ".env". Создать базу данных. Настроить файл ".env"
+4. Переименовать файл ".env.example" в ".env". Создать базу данных. Настроить файл ".env"
 
-4. php artisan key:generate
+5. php artisan key:generate
 
-5. php artisan migrate
+6. php artisan migrate
 
-6. php artisan serve
+7. php artisan serve
 
-      Запустить в браузере - http://localhost:8000/
+8. Запустить в браузере - http://localhost:8000/
