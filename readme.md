@@ -6,7 +6,7 @@
 
 3. composer install
 
-      Создать БД и настроить файл .env
+      Переименовать файл ".env.example" в ".env". Создать базу данных. Настроить файл ".env"
 
 4. php artisan key:generate
 
